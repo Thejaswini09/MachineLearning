@@ -1,0 +1,119 @@
+2024-06-26 15:24:05,221 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-26 15:24:05,252 Extracting text from image: Input\image1.PNG
+2024-06-26 15:24:05,644 Extracting text from image: Input\image2.PNG
+2024-06-26 15:24:06,264 Extracting text from image: Input\image3.jpg
+2024-06-26 15:24:06,533 Extracting text from document: Input\ImagesWord.docx
+2024-06-26 15:24:06,533 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 15:24:06,885 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 15:24:07,149 Extracting text from PDF: Input\Task_interns.pdf
+2024-06-26 15:24:07,161 Extracting text from document: Input\withImagesWord.docx
+2024-06-26 15:24:07,164 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-26 15:24:07,511 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-26 16:03:48,962 Output folder created
+2024-06-26 16:03:48,962 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-26 16:03:48,999 Extracting text from image: Input\image1.PNG
+2024-06-26 16:03:49,816 Extracting text from image: Input\image2.PNG
+2024-06-26 16:03:50,128 Extracting text from image: Input\image3.jpg
+2024-06-26 16:03:50,389 Extracting text from document: Input\ImagesWord.docx
+2024-06-26 16:03:50,394 Total number of images found: 2
+2024-06-26 16:03:50,394 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 16:04:13,150 Output folder created
+2024-06-26 16:04:13,150 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-26 16:04:13,181 Extracting text from image: Input\image1.PNG
+2024-06-26 16:04:13,565 Extracting text from image: Input\image2.PNG
+2024-06-26 16:04:14,183 Extracting text from image: Input\image3.jpg
+2024-06-26 16:04:14,467 Extracting text from document: Input\ImagesWord.docx
+2024-06-26 16:04:14,467 Total number of images found: 2
+2024-06-26 16:04:14,467 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 16:04:57,673 Output folder created
+2024-06-26 16:04:57,689 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-26 16:04:57,705 Extracting text from image: Input\image1.PNG
+2024-06-26 16:04:58,055 Extracting text from image: Input\image2.PNG
+2024-06-26 16:04:58,677 Extracting text from image: Input\image3.jpg
+2024-06-26 16:04:58,939 Extracting text from document: Input\ImagesWord.docx
+2024-06-26 16:04:58,939 Total number of images found: 2
+2024-06-26 16:04:58,939 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 16:04:59,292 Total number of images found: 2
+2024-06-26 16:04:59,292 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 16:04:59,553 Extracting text from PDF: Input\Task_interns.pdf
+2024-06-26 16:04:59,565 Extracting text from document: Input\withImagesWord.docx
+2024-06-26 16:04:59,568 Total number of images found: 2
+2024-06-26 16:04:59,568 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-26 16:04:59,893 Total number of images found: 2
+2024-06-26 16:04:59,893 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-26 16:05:38,801 Output folder created
+2024-06-26 16:05:38,803 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-26 16:05:38,824 Extracting text from image: Input\image1.PNG
+2024-06-26 16:05:39,105 Extracting text from image: Input\image2.PNG
+2024-06-26 16:05:39,414 Extracting text from image: Input\image3.jpg
+2024-06-26 16:05:39,644 Extracting text from document: Input\ImagesWord.docx
+2024-06-26 16:05:39,644 Total number of images found: 2
+2024-06-26 16:05:39,644 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 16:05:39,989 Total number of images found: 2
+2024-06-26 16:05:39,989 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-26 16:05:40,261 Extracting text from PDF: Input\Task_interns.pdf
+2024-06-26 16:05:40,283 Extracting text from document: Input\withImagesWord.docx
+2024-06-26 16:05:40,283 Total number of images found: 2
+2024-06-26 16:05:40,283 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-26 16:05:40,636 Total number of images found: 2
+2024-06-26 16:05:40,636 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-27 18:15:39,643 Output folder created
+2024-06-27 18:15:39,653 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-27 18:15:39,725 Extracting text from image: Input\image1.PNG
+2024-06-27 18:15:40,566 Extracting text from image: Input\image2.PNG
+2024-06-27 18:15:41,537 Extracting text from document: Input\ImagesWord.docx
+2024-06-27 18:15:41,548 Total number of images found:  2, - File Name-Input\ImagesWord.docx
+2024-06-27 18:15:41,548 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-27 18:15:42,109 Total number of images found:  2, - File Name-Input\ImagesWord.docx
+2024-06-27 18:15:42,109 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-27 18:15:42,495 Extracting text from PDF: Input\Task_interns.pdf
+2024-06-27 18:15:42,527 Extracting text from PDF: Input\withImages.pdf
+2024-06-27 18:15:42,542 Total number of images found: 2, - File Name-Input\withImages.pdf
+2024-06-27 18:15:42,542 Extracting text from image in PDF: Input\withImages.pdf
+2024-06-27 18:15:42,943 Total number of images found: 2, - File Name-Input\withImages.pdf
+2024-06-27 18:15:42,943 Extracting text from image in PDF: Input\withImages.pdf
+2024-06-27 18:15:43,406 Extracting text from document: Input\withImagesWord.docx
+2024-06-27 18:15:43,416 Total number of images found:  2, - File Name-Input\withImagesWord.docx
+2024-06-27 18:15:43,416 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-27 18:15:43,949 Total number of images found:  2, - File Name-Input\withImagesWord.docx
+2024-06-27 18:15:43,949 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-27 18:18:10,635 Output folder created
+2024-06-27 18:18:10,635 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-27 18:18:10,667 Extracting text from image: Input\image1.PNG
+2024-06-27 18:18:11,222 Extracting text from image: Input\image2.PNG
+2024-06-27 18:18:12,094 Extracting text from document: Input\ImagesWord.docx
+2024-06-27 18:18:12,104 Total number of images found:  2, - File Name-Input\ImagesWord.docx
+2024-06-27 18:18:12,104 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-27 18:18:12,671 Total number of images found:  2, - File Name-Input\ImagesWord.docx
+2024-06-27 18:18:12,671 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-27 18:18:13,188 Extracting text from PDF: Input\Task_interns.pdf
+2024-06-27 18:18:13,212 Extracting text from PDF: Input\withImages.pdf
+2024-06-27 18:18:13,227 Total number of images found: 2, - File Name-Input\withImages.pdf
+2024-06-27 18:18:13,227 Extracting text from image in PDF: Input\withImages.pdf
+2024-06-27 18:18:13,658 Total number of images found: 2, - File Name-Input\withImages.pdf
+2024-06-27 18:18:13,658 Extracting text from image in PDF: Input\withImages.pdf
+2024-06-27 18:18:14,091 Extracting text from document: Input\withImagesWord.docx
+2024-06-27 18:18:14,091 Total number of images found:  2, - File Name-Input\withImagesWord.docx
+2024-06-27 18:18:14,091 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-27 18:18:14,616 Total number of images found:  2, - File Name-Input\withImagesWord.docx
+2024-06-27 18:18:14,616 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-27 23:14:17,134 Output folder created
+2024-06-27 23:14:17,134 Extracting text from PDF: Input\Aashirvad.pdf
+2024-06-27 23:14:17,165 Extracting text from image: Input\image1.PNG
+2024-06-27 23:14:18,368 Extracting text from image: Input\image2.PNG
+2024-06-27 23:14:19,740 Extracting text from document: Input\ImagesWord.docx
+2024-06-27 23:14:19,756 Total number of images found:  2, - File Name-Input\ImagesWord.docx
+2024-06-27 23:14:19,756 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-27 23:14:20,443 Total number of images found:  2, - File Name-Input\ImagesWord.docx
+2024-06-27 23:14:20,443 Extracting text from image in document: Input\ImagesWord.docx
+2024-06-27 23:14:20,960 Extracting text from PDF: Input\Task_interns.pdf
+2024-06-27 23:14:20,991 Extracting text from PDF: Input\withImages.pdf
+2024-06-27 23:14:20,998 Total number of images found: 2, - File Name-Input\withImages.pdf
+2024-06-27 23:14:20,998 Extracting text from image in PDF: Input\withImages.pdf
+2024-06-27 23:14:21,446 Total number of images found: 2, - File Name-Input\withImages.pdf
+2024-06-27 23:14:21,446 Extracting text from image in PDF: Input\withImages.pdf
+2024-06-27 23:14:21,925 Extracting text from document: Input\withImagesWord.docx
+2024-06-27 23:14:21,933 Total number of images found:  2, - File Name-Input\withImagesWord.docx
+2024-06-27 23:14:21,933 Extracting text from image in document: Input\withImagesWord.docx
+2024-06-27 23:14:22,482 Total number of images found:  2, - File Name-Input\withImagesWord.docx
+2024-06-27 23:14:22,482 Extracting text from image in document: Input\withImagesWord.docx
